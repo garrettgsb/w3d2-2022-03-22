@@ -32,7 +32,6 @@
 ## Resources
 
 * What's a resource?
-* Let's make up a bunch of resources
 * Resources and routing
 
 ## Let's build a BREAD app
